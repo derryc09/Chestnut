@@ -1,0 +1,1 @@
+{"version":3,"sources":["Header.scss"],"names":[],"mappings":"AAAA,gBACI,WAAY,CACZ,wBAAyB,CACzB,UAAY,CACZ,gBAAiB,CACjB,gBAAiB","file":"main.63db4ee4.chunk.css","sourcesContent":[".header-padding{\n    height: 25px;\n    background-color: #31404E;\n    color: white;\n    line-height: 25px;\n    text-align: right;\n}"]}
