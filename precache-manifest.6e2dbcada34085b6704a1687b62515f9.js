@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "640ae732f657bb1d3eb28d15be7829d6",
+    "revision": "2e7f560e617708bda963976bea74819d",
     "url": "/Chestnut/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chestnut/static/css/2.ef1efacd.chunk.css"
   },
   {
-    "revision": "e687e67275f525a0be04",
+    "revision": "527526999dde17fa7264",
     "url": "/Chestnut/static/css/main.63db4ee4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chestnut/static/js/2.0d0bc23f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e687e67275f525a0be04",
-    "url": "/Chestnut/static/js/main.0a95d5d2.chunk.js"
+    "revision": "527526999dde17fa7264",
+    "url": "/Chestnut/static/js/main.923a5d2b.chunk.js"
   },
   {
     "revision": "0e63cd774d476dcfd103",
