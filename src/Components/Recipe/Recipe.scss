@@ -1,0 +1,16 @@
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    background-color: red;
+}
+
+.recipe {
+    .food-image {
+        img {
+            margin-top: 15px;
+            max-width: 100%;
+            max-height: 100%;
+        }
+    }
+}
