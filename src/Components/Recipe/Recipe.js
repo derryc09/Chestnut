@@ -6,18 +6,23 @@ class Recipe extends React.Component {
         return (
             <div className="container recipe">
                 <div className="row mt-4">
-                    <div className="col-8">
+                    <div className="col-12">
                         <div className="title">
                             <h1>Sunny Side Up Egg</h1>
                         </div>
+                    </div>
+                    <div className="col-12 col-sm-4 order-sm-2 food-image">
+                        <img src="https://images.unsplash.com/photo-1571388194924-477d24db88b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80" alt="Egg" />
+                    </div>
+                    <div className="col-12 col-sm-8 order-sm-1">
                         <div className="ingredients">
                             <h4 className="mt-5">Ingredients</h4>
                             <hr class="my-2"></hr>
                             <div className="row">
-                                <div className="col-6">
+                                <div className="col-12 col-sm-6">
                                     <p>Egg<small>, the best quality you can find, preferably organic free range</small></p>
                                 </div>
-                                <div className="col-6">
+                                <div className="col-12 col-sm-6">
                                     <p>Oil <small>, any oil you'd prefer</small></p>
                                 </div>
                             </div>
@@ -35,9 +40,6 @@ class Recipe extends React.Component {
                             <hr class="my-2"></hr>
 
                         </div>
-                    </div>
-                    <div className="col-4 food-image">
-                        <img src="https://images.unsplash.com/photo-1571388194924-477d24db88b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80" alt="Egg" />
                     </div>
                 </div>
             </div>
